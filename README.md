@@ -18,3 +18,6 @@ A web-based notes management application developed using JSP, Servlets, and Hibe
 
 ## Author
 Ansh Gothiwala
+
+_Last updated: January 2026_
+
